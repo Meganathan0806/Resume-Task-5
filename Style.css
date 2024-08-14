@@ -1,0 +1,156 @@
+body{
+    font-family: "Source Sans 3", sans-serif;
+}
+
+.head{
+   background-color: hotpink;
+  margin-left: 160px;
+  margin-right: 160px;
+  height: 80vh;
+   color: white;
+   margin-bottom: 60px;
+   border-radius: 30px;
+   margin-top: 60px;
+}
+#folio {
+    text-align: center;
+   
+
+}
+.secondcon{
+    display: flex;
+    gap: 250px;
+  
+    margin-top: 60px;
+}
+.content1{
+    margin-left:250px;
+    margin-top: 150px;
+}
+.about{
+    background-color: rgba(0, 157, 255, 0.72);
+    height: 70vh;
+    margin-left: 160px;
+    margin-right: 160px;
+    border-radius: 30px;
+}
+.secondcon p{
+    font-size: 17px;
+    font-weight: 500;
+    margin-top: 60px;
+}
+.content1 h1{
+    font-size: 30px;
+}
+li{
+    list-style: none;
+}
+.nav{
+    display: flex;
+    margin-top: 90px;
+    margin-left: 740px;
+    gap: 60px;
+    font-size: 25px;
+}
+#c1{
+    color: rgb(0, 123, 255);
+}
+#c2{
+    color: rgb(0, 123, 255);
+
+}
+#c3{
+    color: rgb(0, 123, 255);
+
+}
+#c4{
+    color: rgba(255, 0, 72, 0.85);
+}
+.phototype1{
+    display: flex;
+    gap: 60px;
+   
+   
+   
+    margin-top: 50px;
+   justify-content: center;
+}
+.phototype1 img{
+    border-radius: 8%;
+}
+.phototype2{
+    display: flex;
+    gap: 60px;
+   
+   
+   
+    margin-top: 50px;
+   justify-content: center;
+}
+.phototype2 img{
+    border-radius: 8%;
+}
+.phototype3{
+    display: flex;
+    gap: 60px;
+   
+   
+   
+    margin-top: 50px;
+   justify-content: center;
+}
+.phototype3 img{
+    border-radius: 8%;
+}
+.lastcontent{
+    display: flex;
+    gap: 180px;
+    margin-top: 150px;
+ 
+   
+}
+.contact1{
+    margin-left: 180px;
+    margin-top: 60px;
+}
+.contact2 p{
+    font-size: 23px;
+    font-weight: 500;
+    margin-top: 60px;
+}
+.contact3 h1{
+    margin-top: 180px;
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: -40px;
+   
+}
+.contact1 h2{
+        margin-left: 60px;
+        font-size: 30px;
+}
+.contact1 h1{
+    font-size: 30px;
+    
+}
+.lastcontent{
+   background-color: rgba(100, 148, 237, 0.588);
+   height: 70vh;
+   margin-left: 120px;
+   margin-right: 120px;
+   border-radius: 20px;
+   color: white;
+}
+.footcontent p{
+    margin-top: 80px;
+    text-align: center;
+    margin-bottom: 90px;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.577);
+}
+
+
+
+
+
+   
